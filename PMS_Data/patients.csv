@@ -1,0 +1,6 @@
+﻿ID,Name,Age,Gender,Phone,Address,Blood Group,Disease
+1,Ravi Kumar,35,Male,9876543210,"Gandhipuram, Coimbatore",B+,Fever
+2,Priya,28,Female,9843012345,"RS Puram, Coimbatore",O+,Migraine
+3,Arun Prakash,52,Male,9790123456,"Peelamedu, Coimbatore",A+,Diabetes
+4,Lakshmi Devi,45,Female,9944567890,"saibaba Colony, Coimbatore",AB+,Hypertension
+5,Karthik Raja,19,Male,9655123478,"Singanallur, Coimbatore",O-,Viral Cold

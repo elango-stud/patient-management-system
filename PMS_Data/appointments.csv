@@ -1,0 +1,6 @@
+﻿ID,Patient,Doctor,Date,Time,Reason,Status
+2,1 - Ravi Kumar,1 - Dr. Suresh Babu (General Physician),2026-10-28,10:00,Fever and body pain,Completed
+3,2 - Priya,2 - Dr. Meena (Neurologist),2026-10-28,11:30,Frequent headache,Completed
+4,3 - Arun Prakash,3 - Dr. Rajesh Kannan (Diabetologist),2026-10-27,09:30,Sugar level check,Completed
+5,4 - Lakshmi Devi,4 - Dr. Anitha (Cardiologist),2026-10-28,16:00,BP monitoring,Scheduled
+6,5 - Karthik Raja,5 - Dr. Vignesh Kumar (ENT Specialist),2026-10-28,14:15,Cold and sore thrroat,Scheduled
